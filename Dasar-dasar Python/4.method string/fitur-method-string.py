@@ -137,8 +137,6 @@ print(data)
 # (Kita berhasil memisahkan nama file dan ekstensinya)
 
 
-#Langkah Selanjutnya yang Bisa Saya Lakukan: Hasil dari .split() selalu berupa List. Agar bisa mengolah data hasil split tersebut dengan lancar, apakah Anda ingin mempelajari cara List Indexing & Slicing (mengambil data urutan tertentu, misal: mengambil 3 data pertama saja)?
 
-study = "Langkah Selanjutnya yang Bisa Saya Lakukan: Hasil dari .split() selalu berupa List. Agar bisa mengolah data hasil split tersebut dengan lancar, apakah Anda ingin mempelajari cara List Indexing & Slicing (mengambil data urutan tertentu, misal: mengambil 3 data pertama saja)?"
 
-print (study.lower())
+
